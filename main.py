@@ -6,3 +6,6 @@ for key in shopping_dict:
     number_of_products = number_of_products + len(shopping_dict[key])
 
 print(f"W sumie kupuję {number_of_products} produktów.")
+
+
+print("DRUGI COMMIT!")
