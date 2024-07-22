@@ -10,3 +10,4 @@ print(f"W sumie kupuję {number_of_products} produktów.")
 
 print("DRUGI COMMIT!")
 print("TRZECI COMMIT :)")
+print("SPECJALNE POZDROWIENIA :)")
